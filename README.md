@@ -60,7 +60,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramkrishna-js&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ramkrishna-js&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ramkrishna-js&theme=radical" alt="streak"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramkrishna-js&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
 
 ###
